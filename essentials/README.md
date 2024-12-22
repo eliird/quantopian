@@ -10,3 +10,4 @@ pip install yfinance
  - `bactest_mac.ipynb` explains how to backtest moving average crossover
  - `unrealized_pnl.ipynb` deals with how to look at pnl whil position is open
  - `evaluating_strategy.ipynb` metrics of how to evaluate a strategy.
+ - `commissions.ipynb` incorporate commissions in backtest (needs install of TA-Lib)  
