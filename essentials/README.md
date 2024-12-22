@@ -42,3 +42,11 @@ pip install yfinance
 - Where can I find strategy ideas?
 - How much automation do I need to implement?
 - what about execution?
+
+# Sources
+
+Ideas for strategy.
+
+- [quantocracy](https://quantocracy.com/)
+- [alpha_architect](https://alphaarchitect.com/blog/)
+- [better_system_trader](https://bettersystemtrader.com/)
